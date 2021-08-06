@@ -126,10 +126,7 @@ Aftet this step you should wait until your screen says that is ready
 
 Go to your web browswer and type  http://localhost:8080
 
-
-
-![Screenshot 2021-02-14 at 13.24.51](./images/Screenshot%25202021-02-14%2520at%252013.24.51.png)
-
+![Screenshot 2021-02-14 at 16.41.06](./images/signin.png)
 Username: **user**
 
 Password: **password**
